@@ -1,9 +1,7 @@
 # Boardgames e-shop
 #### _(Work in progress)_
 
----
-
-Demo e-shop for selling boardgames, backend only... for now !
+**Python / Django demo e-shop for selling boardgames (backend only... for now !)**
 * admin interface
 * user management (sign in / sign up)
 * interactive display of products
@@ -12,6 +10,6 @@ Demo e-shop for selling boardgames, backend only... for now !
 
 <br>
 
----
+--
 
 _Coded with <3 with the help of a [Docstring](https://www.docstring.fr/) tutorial._
